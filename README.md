@@ -1,12 +1,12 @@
 # SQL Notes : 
 
-Here we have last minute revision notes of SQL. These questions will familiarize you with the most important SQL concepts and help you ace your job interviews :raised_hands:
+These questions will familiarize you with the most important SQL concepts and help you ace your job interviews :raised_hands:
 
 ---
 
 ###
 
-#### Join us for all the latest offcampus job updates, webinar, hackathons, resume review and a lot more :heart::heart:
+#### 👇👇👇👇👇
 
 <div align="left">
   <a href="https://www.linkedin.com/in/avijit-ghosh-avijit2001ghosh">
