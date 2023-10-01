@@ -103,7 +103,7 @@ Here we have last minute revision notes of SQL. These questions will familiarize
 
 ###
 
-#### Join us for all the latest offcampus job updates, webinar, hackathons, resume review and a lot more :heart::heart:
+#### Thanks for Join us:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/avijit-ghosh-avijit2001ghosh">
